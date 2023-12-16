@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+# Research & Development IEEE SRM
 
-Template Name: OnePage
-Template URL: https://bootstrapmade.com/onepage-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+## This is the sample website for R&D domain IEEE SRM
+
+In this project we are using HTML, CSS and JavaScript. We are also using a Bootstrap V5 template.
+
+## License
+
+This project is licensed under the MIT License.
+
+© Akash Sasikumar 2023
